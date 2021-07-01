@@ -1,0 +1,13 @@
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\bin\Debug\netcoreapp3.1\WinFormsControlLibrary1.deps.json
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\bin\Debug\netcoreapp3.1\WinFormsControlLibrary1.dll
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\bin\Debug\netcoreapp3.1\WinFormsControlLibrary1.pdb
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.csproj.AssemblyReference.cache
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.UserControl1.resources
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.AssemblyInfoInputs.cache
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.AssemblyInfo.cs
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.dll
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.pdb
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.Properties.Resources.resources
+C:\Users\J\source\repos\WinFormsControlLibrary1\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.ClassAndSemester.resources
